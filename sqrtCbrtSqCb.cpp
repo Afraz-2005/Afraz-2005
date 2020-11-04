@@ -110,6 +110,11 @@ int main()
 			}
 
 		}
+		else
+		{
+			cout << "    invalid input! Please check !";
+		}
+		cout << ":::::::::::::END OF OPERATION:::::::::::::::";
 
 	}
 
