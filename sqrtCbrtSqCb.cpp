@@ -4,16 +4,18 @@ using namespace std;
 
 int main()
 {
-	int a;
-	int select;
-	char x;
-	double result;
-	cout << "Calculators : | 1) Square | 2) Cube | 3) Square Root | 4) Cube Root |" << endl;
-	cout << "\nSelect Calculator Number : ";
-	cin >> select;
-
 	while (true)
 	{
+		int a;
+		int select;
+		char x;
+		double result;
+		cout << "Calculators : | 1) Square | 2) Cube | 3) Square Root | 4) Cube Root |" << endl;
+		cout << "\nSelect Calculator Number : ";
+		cin >> select;
+
+
+	
 		if (select == 1)
 		{
 			cout << "\n    | SQUARE CALCULATOR |" << endl;
@@ -22,22 +24,23 @@ int main()
 			result = a * a;
 			cout << "\n    " << a << " squared = " << result << endl;
 
-			
 			cout << "\n    Do you wnat to continue ? [ y/n ] : ";
 			cin >> x;
+			cout << endl;
 			if (x == 'y')
 			{
 				continue;
 			}
 			else if (x == 'n')
 			{
+				cout << ":::::::::::::END OF OPERATION:::::::::::::::" << endl;
 				break;
 			}
 			else
 			{
-				cout << "    invatid string! Please Check.";
+				cout << "    invatid! Please Check.";
+				break;
 			}
-
 
 		}
 		else if (select == 2)
@@ -50,17 +53,20 @@ int main()
 
 			cout << "\n    Do you wnat to continue ? [ y/n ] : ";
 			cin >> x;
+			cout << endl;
 			if (x == 'y')
 			{
 				continue;
 			}
 			else if (x == 'n')
 			{
+				cout << ":::::::::::::END OF OPERATION:::::::::::::::" << endl;
 				break;
 			}
 			else
 			{
-				cout << "    invatid string! Please Check.";
+				break;
+				cout << "    invatid! Please Check.";
 			}
 		}
 		else if (select == 3)
@@ -73,17 +79,20 @@ int main()
 
 			cout << "\n    Do you wnat to continue ? [ y/n ] : ";
 			cin >> x;
+			cout << endl;
 			if (x == 'y')
 			{
 				continue;
 			}
 			else if (x == 'n')
 			{
+				cout << ":::::::::::::END OF OPERATION:::::::::::::::" << endl;
 				break;
 			}
 			else
 			{
-				cout << "    invatid string! Please Check.";
+				break;
+				cout << "    invatid! Please Check.";
 			}
 		}
 		else if (select == 4)
@@ -96,26 +105,28 @@ int main()
 
 			cout << "\n    Do you wnat to continue ? [ y/n ] : ";
 			cin >> x;
+			cout << endl;
 			if (x == 'y')
 			{
 				continue;
 			}
 			else if (x == 'n')
 			{
+				cout << ":::::::::::::END OF OPERATION:::::::::::::::" << endl;
 				break;
 			}
 			else
 			{
-				cout << "    invatid string! Please Check.";
+				break;
+				cout << "    invatid ! Please Check.\n";
 			}
 
 		}
 		else
 		{
-			cout << "    invalid input! Please check !";
+			cout << "\n    invalid input! Please check !\n";
 		}
-		cout << ":::::::::::::END OF OPERATION:::::::::::::::";
-
+		cout << endl;
 	}
 
 }
