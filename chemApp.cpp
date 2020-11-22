@@ -10,7 +10,7 @@ int check()
 	char yn;
 	string round;
 
-	cout << "\nSet username (more than 5 characters and less than 9 characters): ";
+	cout << "\nSet username: ";
 	cin >> userName;
 
 	cin.ignore();
