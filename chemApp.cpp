@@ -75,4 +75,5 @@ int main()
 {
 	cout << "\n~~~~~~~~~~~Simple Check and View app~~~~~~~~~~~~~" << endl;
 	check();
+	cout << "\n~~~~~~~~~~~~~~~~End of program~~~~~~~~~~~~~~~~~~~" << endl;
 }
