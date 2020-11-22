@@ -40,7 +40,7 @@ int check()
 			getline(cin, occupation);
 
 			cout << "\nHi " << name << ", " << endl;
-			cout << "You are " << age << " years old" << endl << "You are a " << occupation << "\n";
+			cout << "You are " << age << " years old" << endl << "You are a " << occupation << "\nNice to meet you!" << "\n";
 
 			cout << "\nDo you want to replay or stop? ";
 			cin >> round;
