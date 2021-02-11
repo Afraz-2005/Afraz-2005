@@ -3,13 +3,14 @@
 ### I am Afraz. I am currenty an O' Level student 
 ### Fond of Computer Science and a beginner in `programming`.
 
-## I am currently Learning:
+## learnt console coding using:
 - `C++`
-- `Python`
-- HTML
-- CSS
+- `python`
+- `SQL`
+
+## I am currently Learning:
+- `Java`
 
 ## Will Learn: 
-- `Java`
 - `Javacript`
 - `C#`
