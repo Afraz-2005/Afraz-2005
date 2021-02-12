@@ -7,7 +7,7 @@
 - `HTML 5`
 - `CSS 3`
 
-## learnt console coding using:
+## Learnt console coding using:
 - `C++`
 - `python`
 - `SQL`
