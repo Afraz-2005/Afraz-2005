@@ -1,6 +1,7 @@
 ## Hi There 👋
 
-### I am Afraz. I am currenty an O' Level student 
+### I am Afraz. I am currenty an O' Level student.
+### Love watching animes and reading mangas.
 ### Fond of Computer Science and a beginner in `programming`.
 
 ## Web Dev With:-
