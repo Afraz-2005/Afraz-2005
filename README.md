@@ -1,6 +1,6 @@
-## Hi There 👋
+## Hi There 👋 I am Afraz. 
 
-### I am Afraz. I am currenty an O' Level student.
+### Currenty an O' Level student.
 ### Love watching animes and reading mangas.
 ### Fond of Computer Science and a beginner in `programming`.
 
