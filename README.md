@@ -22,7 +22,7 @@
 
 
 ### `Tools(IDE/Editor)`:
-<img src="./logos/vscode.png" width=60> <img src="./logos/Visual-Studio-Logo.png" width=100> <img src="./logos/ij.png" width=60>
+<img src="./logos/vscode.png" width=50> <img src="./logos/Visual-Studio-Logo.png" width=90> <img src="./logos/ij.png" width=50>
 
 ----
 
