@@ -3,6 +3,10 @@
 ### I am Afraz. I am currenty an O' Level student 
 ### Fond of Computer Science and a beginner in `programming`.
 
+## Web Dev With:-
+- `HTML 5`
+- `CSS 3`
+
 ## learnt console coding using:
 - `C++`
 - `python`
