@@ -1,4 +1,5 @@
 ## Download 3 of them ##
+# Read carefully! #
 1
 ![valorantIntroBanner3](https://user-images.githubusercontent.com/70149305/115104445-478a3b00-9f7a-11eb-8f11-273d95e64eb6.jpg)
 2
