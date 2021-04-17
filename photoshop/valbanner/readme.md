@@ -7,4 +7,7 @@
 ![valorantIntroBanner1](https://user-images.githubusercontent.com/70149305/115104471-77394300-9f7a-11eb-8e7a-c0b769e6cbc6.jpg)
 -
 -
-_Download link above_
+_Download links_
+1. https://github.com/Afraz-2007/Afraz-2007/blob/master/photoshop/valbanner/valorantIntroBanner1.jpg
+2. https://github.com/Afraz-2007/Afraz-2007/blob/master/photoshop/valbanner/valorantIntroBanner2.jpg
+3. https://github.com/Afraz-2007/Afraz-2007/blob/master/photoshop/valbanner/valorantIntroBanner3.jpg
