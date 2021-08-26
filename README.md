@@ -5,7 +5,7 @@
 
 ### `Programming Languages:`
 <img src="./logos/306px-ISO_C++_Logo.png" width=60> <img src="./logos/c-sharp-c-logo-02F17714BA-seeklogo.png" width=60> <img src="./logos/Java_logo_icon.png" width=160>
-<img src=".//logos/pyth.png.crdownload" width=60>
+<img src=".//logos/pyth.png.crdownload" width=60>    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width="60">
 
 -----
 
@@ -16,8 +16,7 @@
 -----
 
 ### `Web Dev:` 
-<img src="./logos/HTML CSS.png" width=150>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="50"><img src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" width="50"> <img src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png?width=256&s=3f7493995143d3cf40b1fedc582607cea194b579" width=50> <img src="https://cdn.iconscout.com/icon/free/png-256/electron-67-1175035.png" width="50"><img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" width="50">  <img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" width="50">
 ----
 
 
