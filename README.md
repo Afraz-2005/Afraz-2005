@@ -1,6 +1,7 @@
 ## `HI There,`👋
 
-### I'm Afraz, currently an O'Level student. I love watching animes and reading mangas, random storybooks, encyclopedias and books on programming. I also like maths, physics and chemistry alot. Computer science and programming is the center of my interest.
+### I am Afraz. <br/> 
+A high school student and a front-end web developer.
 -----
 <a href="https://ibb.co/HTDhbb6"><img src="https://i.ibb.co/8gDYffq/bannerAZ.png" alt="bannerAZ" border="0" width="100%"></a>
 -----
