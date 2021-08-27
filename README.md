@@ -2,6 +2,8 @@
 
 ### I'm Afraz, currently an O'Level student. I love watching animes and reading mangas, random storybooks, encyclopedias and books on programming. I also like maths, physics and chemistry alot. Computer science and programming is the center of my interest.
 -----
+<a href="https://ibb.co/HTDhbb6"><img src="https://i.ibb.co/8gDYffq/bannerAZ.png" alt="bannerAZ" border="0" width="100%"></a>
+-----
 
 ### `Programming Languages:`
 <img src="./logos/306px-ISO_C++_Logo.png" width=60> <img src="./logos/c-sharp-c-logo-02F17714BA-seeklogo.png" width=60> <img src="./logos/Java_logo_icon.png" width=160>
@@ -23,6 +25,9 @@
 ### `Tools(IDE/Editor):`
 <img src="./logos/vscode.png" width=50> <img src="./logos/Visual-Studio-Logo.png" width=90> <img src="./logos/ij.png" width=50>
 
+----
+### `Portfolio: `
+https://afraz2005.netlify.app/
 ----
 
 ## `Thanks for visiting` 👋
