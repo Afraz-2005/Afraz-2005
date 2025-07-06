@@ -28,7 +28,7 @@ A high school student and a front-end web developer.
 
 ----
 ### `Portfolio: `
-https://afraz05.netlify.app/
+https://afraz05.vercel.app/
 ----
 
 ## `Thanks for visiting` 👋
